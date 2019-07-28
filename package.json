@@ -1,7 +1,7 @@
 {
   "name": "wocss-objects-grid",
   "version": "4.0.1",
-  "description": "wocss' system grid",
+  "description": "[DEPRECATED] wocss' system grid",
   "main": "_objects.grid.scss",
   "repository": {
     "type": "git",
